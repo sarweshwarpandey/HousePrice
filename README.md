@@ -9,4 +9,4 @@ Modules to be used:
 3. Matplotlib
 4. Scikit-learn
 
-We have used three ML regression and used corss-validation to get the error in predictions by the models
+We have used three ML regression and used cross-validation to get the error in predictions by the models
